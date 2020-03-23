@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea46ec50-5ff0-4414-a525-22c28a9e1247" name="Default Changelist" comment="" />
+    <list default="true" id="a549551b-c077-4156-8c71-6c026e0941cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/polynomial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/polynomial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ZI6TliE5utfUl7lmIvREDN34av" />
+  <component name="ProjectId" id="1ZY55dMzP2w7Lm0yrTnH8Wfixw4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,15 +23,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\polynomial" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python tests.Unittests in test.py">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
       <module name="polynomial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +48,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="polynomial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polynomial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in polynomial" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="polynomial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,16 +78,21 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python tests.pytest in polynomial" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in test.py" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.polynomial" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python tests.pytest in polynomial" />
       </list>
     </recent_temporary>
   </component>
@@ -111,62 +113,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea46ec50-5ff0-4414-a525-22c28a9e1247" name="Default Changelist" comment="" />
-      <created>1584514270094</created>
+      <changelist id="a549551b-c077-4156-8c71-6c026e0941cf" name="Default Changelist" comment="" />
+      <created>1585003004125</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584514270094</updated>
+      <updated>1585003004125</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="366" y="148" key="#Unittests_in_test.py" timestamp="1584689681234">
+    <state x="94" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585003199479">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="366" y="148" key="#Unittests_in_test.py/0.0.1280.984@0.0.1280.984" timestamp="1584689681234" />
-    <state x="416" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584960841799">
+    <state x="94" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1585003199479" />
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1585003243649">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="416" y="301" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984@0.0.1280.984" timestamp="1584960841799" />
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom" timestamp="1584994233421">
+    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1585003243649" />
+    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1585003243648">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584994233421" />
-    <state width="1259" height="263" key="GridCell.Tab.0.center" timestamp="1584994233420">
+    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1585003243648" />
+    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1585003243648">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1584994233420" />
-    <state width="1259" height="263" key="GridCell.Tab.0.left" timestamp="1584994233420">
+    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1585003243648" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1585003243648">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1584994233420" />
-    <state width="1259" height="263" key="GridCell.Tab.0.right" timestamp="1584994233420">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1584994233420" />
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom" timestamp="1584874342733">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1584874342733" />
-    <state width="1259" height="325" key="GridCell.Tab.1.center" timestamp="1584874342732">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1584874342732" />
-    <state width="1259" height="325" key="GridCell.Tab.1.left" timestamp="1584874342732">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1584874342732" />
-    <state width="1259" height="325" key="GridCell.Tab.1.right" timestamp="1584874342732">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state width="1259" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1584874342732" />
-    <state x="348" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1584960458857">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="348" y="319" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1584960458857" />
-    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1584817781493">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1584817781493" />
+    <state width="1259" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1585003243648" />
   </component>
 </project>
